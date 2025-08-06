@@ -1,0 +1,202 @@
+[
+    {
+        "evento": "Final de Atletismo - 100m planos",
+        "fecha": "2024-08-10",
+        "disciplina": "Atletismo - 100m planos",
+        "ganadores": {
+            "oro": "Juan Mariño Montoya",
+            "plata": "Usain Bolt",
+            "bronce": "Shelly-Ann Fraser-Pryce"
+        }
+    },
+    {
+        "evento": "Final de Natación - 200m libre",
+        "fecha": "2024-08-12",
+        "disciplina": "Natación - 200m libre",
+        "ganadores": {
+            "oro": "Katie Ledecky",
+            "plata": "Ana Lucía Pérez",
+            "bronce": "Ariarne Titmus"
+        }
+    },
+    {
+        "evento": "Final de Fútbol Masculino",
+        "fecha": "2024-08-15",
+        "disciplina": "Fútbol",
+        "ganadores": {
+            "oro": "Argentina",
+            "plata": "Brasil",
+            "bronce": "Colombia"
+        }
+    },
+    {
+        "evento": "Final de Natación - 400m libre",
+        "fecha": "2024-08-11",
+        "disciplina": "Natación - 400m libre",
+        "ganadores": {
+            "oro": "Katie Ledecky",
+            "plata": "Ariarne Titmus",
+            "bronce": "Summer McIntosh"
+        }
+    },
+    {
+        "evento": "Final de Salto triple",
+        "fecha": "2024-08-13",
+        "disciplina": "Salto triple",
+        "ganadores": {
+            "oro": "Yulimar Rojas",
+            "plata": "Shanieka Ricketts",
+            "bronce": "Patricia Mamona"
+        }
+    },
+    {
+        "evento": "Final de Natación - 100m mariposa",
+        "fecha": "2024-08-14",
+        "disciplina": "Natación - 100m mariposa",
+        "ganadores": {
+            "oro": "Caeleb Dressel",
+            "plata": "Kristóf Milák",
+            "bronce": "Noè Ponti"
+        }
+    },
+    {
+        "evento": "Final de Ciclismo BMX",
+        "fecha": "2024-08-16",
+        "disciplina": "Ciclismo BMX",
+        "ganadores": {
+            "oro": "Mariana Pajón",
+            "plata": "Beth Shriever",
+            "bronce": "Merle van Benthem"
+        }
+    },
+    {
+        "evento": "Final de Gimnasia artística - Salto",
+        "fecha": "2024-08-17",
+        "disciplina": "Gimnasia artística",
+        "ganadores": {
+            "oro": "Simone Biles",
+            "plata": "Rebeca Andrade",
+            "bronce": "Shallon Olsen"
+        }
+    },
+    {
+        "evento": "Final de Atletismo - 200m planos",
+        "fecha": "2024-08-18",
+        "disciplina": "Atletismo - 200m planos",
+        "ganadores": {
+            "oro": "Shericka Jackson",
+            "plata": "Dina Asher-Smith",
+            "bronce": "Gabrielle Thomas"
+        }
+    },
+    {
+        "evento": "Final de Tenis individual masculino",
+        "fecha": "2024-08-19",
+        "disciplina": "Tenis",
+        "ganadores": {
+            "oro": "Rafael Nadal",
+            "plata": "Novak Djokovic",
+            "bronce": "Carlos Alcaraz"
+        }
+    },
+    {
+        "evento": "Final de Tenis individual femenino",
+        "fecha": "2024-08-20",
+        "disciplina": "Tenis",
+        "ganadores": {
+            "oro": "Iga Świątek",
+            "plata": "Naomi Osaka",
+            "bronce": "Aryna Sabalenka"
+        }
+    },
+    {
+        "evento": "Final de Atletismo - 400m planos",
+        "fecha": "2024-08-21",
+        "disciplina": "Atletismo - 400m planos",
+        "ganadores": {
+            "oro": "Wayde van Niekerk",
+            "plata": "Michael Norman",
+            "bronce": "Kirani James"
+        }
+    },
+    {
+        "evento": "Final de Fútbol Femenino",
+        "fecha": "2024-08-22",
+        "disciplina": "Fútbol",
+        "ganadores": {
+            "oro": "Estados Unidos",
+            "plata": "Suecia",
+            "bronce": "Canadá"
+        }
+    },
+    {
+        "evento": "Final de Baloncesto Masculino",
+        "fecha": "2024-08-23",
+        "disciplina": "Baloncesto",
+        "ganadores": {
+            "oro": "Estados Unidos",
+            "plata": "España",
+            "bronce": "Australia"
+        }
+    },
+    {
+        "evento": "Final de Voleibol Femenino",
+        "fecha": "2024-08-24",
+        "disciplina": "Voleibol",
+        "ganadores": {
+            "oro": "Brasil",
+            "plata": "Estados Unidos",
+            "bronce": "Serbia"
+        }
+    },
+    {
+        "evento": "Final de Boxeo - Peso pesado",
+        "fecha": "2024-08-25",
+        "disciplina": "Boxeo - Peso pesado",
+        "ganadores": {
+            "oro": "Anthony Joshua",
+            "plata": "Deontay Wilder",
+            "bronce": "Andy Ruiz Jr"
+        }
+    },
+    {
+        "evento": "Final de Judo - Peso medio",
+        "fecha": "2024-08-26",
+        "disciplina": "Judo - Peso medio",
+        "ganadores": {
+            "oro": "Shohei Ono",
+            "plata": "Lasha Shavdatuashvili",
+            "bronce": "An Changrim"
+        }
+    },
+    {
+        "evento": "Final de Esgrima - Florete",
+        "fecha": "2024-08-27",
+        "disciplina": "Esgrima - Florete",
+        "ganadores": {
+            "oro": "Inna Deriglazova",
+            "plata": "Lee Kiefer",
+            "bronce": "Arianna Errigo"
+        }
+    },
+    {
+        "evento": "Final de Halterofilia - Peso pesado",
+        "fecha": "2024-08-28",
+        "disciplina": "Halterofilia - Peso pesado",
+        "ganadores": {
+            "oro": "Lasha Talakhadze",
+            "plata": "Ali Davoudi",
+            "bronce": "Gor Minasyan"
+        }
+    },
+    {
+        "evento": "Final de Atletismo - Maratón",
+        "fecha": "2024-08-29",
+        "disciplina": "Atletismo - Maratón",
+        "ganadores": {
+            "oro": "Eliud Kipchoge",
+            "plata": "Kenenisa Bekele",
+            "bronce": "Amos Kipruto"
+        }
+    }
+]

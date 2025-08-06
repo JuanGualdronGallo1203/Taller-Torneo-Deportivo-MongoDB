@@ -1,87 +1,169 @@
 [
     {
-        "disciplina": "Voleibol",
-        "tipo": "Equipo",
-        "categoria": "Masculino",
-        "reglas_especiales": "el balon no debe caer en el piso"
-    },
-    {
-        "disciplina": "Atletismo - 100 metros planos",
+        "nombre": "Atletismo - 100m planos",
         "tipo": "Individual",
         "categoria": "Masculino",
-        "reglas_especiales": "Salida en falso implica descalificación"
+        "atletas": [
+            "Juan Mariño Montoya",
+            "Usain Bolt",
+            "Shelly-Ann Fraser-Pryce"
+        ]
     },
     {
-        "disciplina": "Natación - 200 metros libre",
+        "nombre": "Natación - 200m libre",
         "tipo": "Individual",
         "categoria": "Femenino",
-        "reglas_especiales": "Uso de traje reglamentario obligatorio"
+        "atletas": [
+            "Ana Lucía Pérez",
+            "Katie Ledecky",
+            "Ariarne Titmus"
+        ]
     },
     {
-        "disciplina": "Fútbol",
+        "nombre": "Fútbol",
         "tipo": "Equipo",
         "categoria": "Masculino",
-        "reglas_especiales": "Máximo 3 sustituciones por partido"
+        "atletas": [
+            "Carlos Martínez Rojas",
+            "James Rodríguez",
+            "Neymar Jr",
+            "Lionel Messi"
+        ]
     },
     {
-        "disciplina": "Baloncesto",
-        "tipo": "Equipo",
-        "categoria": "Mixto",
-        "reglas_especiales": "Posesión de 24 segundos por ataque"
-    },
-    {
-        "disciplina": "Judo - Peso medio (-81 kg)",
-        "tipo": "Individual",
-        "categoria": "Masculino",
-        "reglas_especiales": "Prohibido agarrar las piernas del oponente"
-    },
-    {
-        "disciplina": "Esgrima - Florete",
+        "nombre": "Natación - 400m libre",
         "tipo": "Individual",
         "categoria": "Femenino",
-        "reglas_especiales": "Toques válidos solo con la punta del arma"
+        "atletas": [
+            "Katie Ledecky"
+        ]
     },
     {
-        "disciplina": "Ciclismo - Ruta",
-        "tipo": "Individual",
-        "categoria": "Masculino",
-        "reglas_especiales": "Uso de casco obligatorio"
-    },
-    {
-        "disciplina": "Voleibol de playa",
-        "tipo": "Parejas",
-        "categoria": "Mixto",
-        "reglas_especiales": "El balón no debe tocar la arena"
-    },
-    
-    {
-        "disciplina": "Boxeo - Peso welter (69 kg)",
-        "tipo": "Individual",
-        "categoria": "Masculino",
-        "reglas_especiales": "Prohibidos golpes por debajo de la cintura"
-    },
-    {
-        "disciplina": "Gimnasia artística - Barras asimétricas",
+        "nombre": "Salto triple",
         "tipo": "Individual",
         "categoria": "Femenino",
-        "reglas_especiales": "Ejercicio mínimo de 1 minuto de duración"
+        "atletas": [
+            "Yulimar Rojas"
+        ]
     },
     {
-        "disciplina": "Rugby 7",
-        "tipo": "Equipo",
-        "categoria": "Mixto",
-        "reglas_especiales": "Try vale 5 puntos, conversión 2 puntos"
-    },
-    {
-        "disciplina": "Tenis de mesa - Dobles",
-        "tipo": "Parejas",
-        "categoria": "Mixto",
-        "reglas_especiales": "El saque debe cruzar diagonalmente"
-    },
-    {
-        "disciplina": "Halterofilia - Peso pesado (+105 kg)",
+        "nombre": "Natación - 100m mariposa",
         "tipo": "Individual",
         "categoria": "Masculino",
-        "reglas_especiales": "Tres intentos por ejercicio (arranque y envión)"
-    }    
+        "atletas": [
+            "Caeleb Dressel"
+        ]
+    },
+    {
+        "nombre": "Ciclismo BMX",
+        "tipo": "Individual",
+        "categoria": "Femenino",
+        "atletas": [
+            "Mariana Pajón"
+        ]
+    },
+    {
+        "nombre": "Gimnasia artística",
+        "tipo": "Individual",
+        "categoria": "Femenino",
+        "atletas": [
+            "Simone Biles"
+        ]
+    },
+    {
+        "nombre": "Atletismo - 200m planos",
+        "tipo": "Individual",
+        "categoria": "Femenino",
+        "atletas": [
+            "Dina Asher-Smith"
+        ]
+    },
+    {
+        "nombre": "Tenis",
+        "tipo": "Individual",
+        "categoria": "Masculino",
+        "atletas": [
+            "Rafael Nadal"
+        ]
+    },
+    {
+        "nombre": "Tenis",
+        "tipo": "Individual",
+        "categoria": "Femenino",
+        "atletas": [
+            "Naomi Osaka"
+        ]
+    },
+    {
+        "nombre": "Atletismo - 400m planos",
+        "tipo": "Individual",
+        "categoria": "Masculino",
+        "atletas": [
+            "Wayde van Niekerk"
+        ]
+    },
+    {
+        "nombre": "Fútbol",
+        "tipo": "Equipo",
+        "categoria": "Femenino",
+        "atletas": [
+            "Marta Vieira"
+        ]
+    },
+    {
+        "nombre": "Baloncesto",
+        "tipo": "Equipo",
+        "categoria": "Masculino",
+        "atletas": [
+            "LeBron James"
+        ]
+    },
+    {
+        "nombre": "Voleibol",
+        "tipo": "Equipo",
+        "categoria": "Femenino",
+        "atletas": [
+            "Tijana Bošković"
+        ]
+    },
+    {
+        "nombre": "Boxeo - Peso pesado",
+        "tipo": "Individual",
+        "categoria": "Masculino",
+        "atletas": [
+            "Anthony Joshua"
+        ]
+    },
+    {
+        "nombre": "Judo - Peso medio",
+        "tipo": "Individual",
+        "categoria": "Masculino",
+        "atletas": [
+            "Shohei Ono"
+        ]
+    },
+    {
+        "nombre": "Esgrima - Florete",
+        "tipo": "Individual",
+        "categoria": "Femenino",
+        "atletas": [
+            "Inna Deriglazova"
+        ]
+    },
+    {
+        "nombre": "Halterofilia - Peso pesado",
+        "tipo": "Individual",
+        "categoria": "Masculino",
+        "atletas": [
+            "Lasha Talakhadze"
+        ]
+    },
+    {
+        "nombre": "Atletismo - Maratón",
+        "tipo": "Individual",
+        "categoria": "Masculino",
+        "atletas": [
+            "Eliud Kipchoge"
+        ]
+    }
 ]

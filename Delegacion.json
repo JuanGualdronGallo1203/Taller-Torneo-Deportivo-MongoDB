@@ -1,5 +1,294 @@
 [
     {
-        
+        "pais": "Colombia",
+        "continente": "América",
+        "num_atletas": 4,
+        "atletas": [
+            "Juan Mariño Montoya",
+            "Carlos Martínez Rojas",
+            "James Rodríguez",
+            "Mariana Pajón"
+        ],
+        "medallas": {
+            "oro": [
+                "Oro en Atletismo - 100m planos (2024)",
+                "Oro en Ciclismo BMX (2024)"
+            ],
+            "plata": [],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "Ecuador",
+        "continente": "América",
+        "num_atletas": 1,
+        "atletas": [
+            "Ana Lucía Pérez"
+        ],
+        "medallas": {
+            "oro": [],
+            "plata": [
+                "Plata en Natación - 200m libre (2024)"
+            ],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "Estados Unidos",
+        "continente": "América",
+        "num_atletas": 3,
+        "atletas": [
+            "Katie Ledecky",
+            "Caeleb Dressel",
+            "Simone Biles"
+        ],
+        "medallas": {
+            "oro": [
+                "Oro en Natación - 200m libre (2024)",
+                "Oro en Natación - 400m libre (2024)",
+                "Oro en Natación - 100m mariposa (2024)",
+                "Oro en Gimnasia artística - Salto (2024)"
+            ],
+            "plata": [],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "Jamaica",
+        "continente": "América",
+        "num_atletas": 3,
+        "atletas": [
+            "Usain Bolt",
+            "Elaine Thompson-Herah",
+            "Shelly-Ann Fraser-Pryce"
+        ],
+        "medallas": {
+            "oro": [],
+            "plata": [
+                "Plata en Atletismo - 100m planos (2024)"
+            ],
+            "bronce": [
+                "Bronce en Atletismo - 100m planos (2024)"
+            ]
+        }
+    },
+    {
+        "pais": "Australia",
+        "continente": "Oceanía",
+        "num_atletas": 1,
+        "atletas": [
+            "Ariarne Titmus"
+        ],
+        "medallas": {
+            "oro": [],
+            "plata": [],
+            "bronce": [
+                "Bronce en Natación - 200m libre (2024)"
+            ]
+        }
+    },
+    {
+        "pais": "Venezuela",
+        "continente": "América",
+        "num_atletas": 1,
+        "atletas": [
+            "Yulimar Rojas"
+        ],
+        "medallas": {
+            "oro": [
+                "Oro en Salto triple (2024)"
+            ],
+            "plata": [],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "Brasil",
+        "continente": "América",
+        "num_atletas": 2,
+        "atletas": [
+            "Neymar Jr",
+            "Alisson Becker"
+        ],
+        "medallas": {
+            "oro": [],
+            "plata": [],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "Argentina",
+        "continente": "América",
+        "num_atletas": 1,
+        "atletas": [
+            "Lionel Messi"
+        ],
+        "medallas": {
+            "oro": [],
+            "plata": [],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "Reino Unido",
+        "continente": "Europa",
+        "num_atletas": 1,
+        "atletas": [
+            "Dina Asher-Smith"
+        ],
+        "medallas": {
+            "oro": [],
+            "plata": [
+                "Plata en Atletismo - 200m planos (2024)"
+            ],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "España",
+        "continente": "Europa",
+        "num_atletas": 1,
+        "atletas": [
+            "Rafael Nadal"
+        ],
+        "medallas": {
+            "oro": [
+                "Oro en Tenis individual (2024)"
+            ],
+            "plata": [],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "Japón",
+        "continente": "Asia",
+        "num_atletas": 1,
+        "atletas": [
+            "Naomi Osaka"
+        ],
+        "medallas": {
+            "oro": [],
+            "plata": [],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "Sudáfrica",
+        "continente": "África",
+        "num_atletas": 1,
+        "atletas": [
+            "Wayde van Niekerk"
+        ],
+        "medallas": {
+            "oro": [
+                "Oro en Atletismo - 400m planos (2024)"
+            ],
+            "plata": [],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "Francia",
+        "continente": "Europa",
+        "num_atletas": 1,
+        "atletas": [
+            "Kylian Mbappé"
+        ],
+        "medallas": {
+            "oro": [],
+            "plata": [],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "Alemania",
+        "continente": "Europa",
+        "num_atletas": 1,
+        "atletas": [
+            "Timo Werner"
+        ],
+        "medallas": {
+            "oro": [],
+            "plata": [],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "Italia",
+        "continente": "Europa",
+        "num_atletas": 1,
+        "atletas": [
+            "Gianmarco Tamberi"
+        ],
+        "medallas": {
+            "oro": [],
+            "plata": [],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "China",
+        "continente": "Asia",
+        "num_atletas": 1,
+        "atletas": [
+            "Zhang Yufei"
+        ],
+        "medallas": {
+            "oro": [],
+            "plata": [],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "Rusia",
+        "continente": "Europa",
+        "num_atletas": 1,
+        "atletas": [
+            "Mariya Lasitskene"
+        ],
+        "medallas": {
+            "oro": [],
+            "plata": [],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "Canadá",
+        "continente": "América",
+        "num_atletas": 1,
+        "atletas": [
+            "Andre De Grasse"
+        ],
+        "medallas": {
+            "oro": [],
+            "plata": [],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "Kenya",
+        "continente": "África",
+        "num_atletas": 1,
+        "atletas": [
+            "Eliud Kipchoge"
+        ],
+        "medallas": {
+            "oro": [],
+            "plata": [],
+            "bronce": []
+        }
+    },
+    {
+        "pais": "Noruega",
+        "continente": "Europa",
+        "num_atletas": 1,
+        "atletas": [
+            "Karsten Warholm"
+        ],
+        "medallas": {
+            "oro": [],
+            "plata": [],
+            "bronce": []
+        }
     }
 ]

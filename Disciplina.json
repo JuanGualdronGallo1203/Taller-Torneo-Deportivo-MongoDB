@@ -1,0 +1,87 @@
+[
+    {
+        "disciplina": "Voleibol",
+        "tipo": "Equipo",
+        "categoria": "Masculino",
+        "reglas_especiales": "el balon no debe caer en el piso"
+    },
+    {
+        "disciplina": "Atletismo - 100 metros planos",
+        "tipo": "Individual",
+        "categoria": "Masculino",
+        "reglas_especiales": "Salida en falso implica descalificación"
+    },
+    {
+        "disciplina": "Natación - 200 metros libre",
+        "tipo": "Individual",
+        "categoria": "Femenino",
+        "reglas_especiales": "Uso de traje reglamentario obligatorio"
+    },
+    {
+        "disciplina": "Fútbol",
+        "tipo": "Equipo",
+        "categoria": "Masculino",
+        "reglas_especiales": "Máximo 3 sustituciones por partido"
+    },
+    {
+        "disciplina": "Baloncesto",
+        "tipo": "Equipo",
+        "categoria": "Mixto",
+        "reglas_especiales": "Posesión de 24 segundos por ataque"
+    },
+    {
+        "disciplina": "Judo - Peso medio (-81 kg)",
+        "tipo": "Individual",
+        "categoria": "Masculino",
+        "reglas_especiales": "Prohibido agarrar las piernas del oponente"
+    },
+    {
+        "disciplina": "Esgrima - Florete",
+        "tipo": "Individual",
+        "categoria": "Femenino",
+        "reglas_especiales": "Toques válidos solo con la punta del arma"
+    },
+    {
+        "disciplina": "Ciclismo - Ruta",
+        "tipo": "Individual",
+        "categoria": "Masculino",
+        "reglas_especiales": "Uso de casco obligatorio"
+    },
+    {
+        "disciplina": "Voleibol de playa",
+        "tipo": "Parejas",
+        "categoria": "Mixto",
+        "reglas_especiales": "El balón no debe tocar la arena"
+    },
+    
+    {
+        "disciplina": "Boxeo - Peso welter (69 kg)",
+        "tipo": "Individual",
+        "categoria": "Masculino",
+        "reglas_especiales": "Prohibidos golpes por debajo de la cintura"
+    },
+    {
+        "disciplina": "Gimnasia artística - Barras asimétricas",
+        "tipo": "Individual",
+        "categoria": "Femenino",
+        "reglas_especiales": "Ejercicio mínimo de 1 minuto de duración"
+    },
+    {
+        "disciplina": "Rugby 7",
+        "tipo": "Equipo",
+        "categoria": "Mixto",
+        "reglas_especiales": "Try vale 5 puntos, conversión 2 puntos"
+    },
+    {
+        "disciplina": "Tenis de mesa - Dobles",
+        "tipo": "Parejas",
+        "categoria": "Mixto",
+        "reglas_especiales": "El saque debe cruzar diagonalmente"
+    },
+    {
+        "disciplina": "Halterofilia - Peso pesado (+105 kg)",
+        "tipo": "Individual",
+        "categoria": "Masculino",
+        "reglas_especiales": "Tres intentos por ejercicio (arranque y envión)"
+    }    
+]

@@ -1,303 +1,311 @@
 [
-        {
-            "nombre_atleta": "Juan Mariño Montoya",
-            "identificacion": "1096067849",
-            "nacionalidad": "Colombiano",
-            "edad": "25",
-            "altura": "1.78 m",
-            "peso": "81 kg",
-            "sexo": "masculino",
-            "talla": "XL"
-        },
-        {
-            "nombre_atleta": "Felipe Andres Corredor",
-            "identificacion": "109786249",
-            "nacionalidad": "Peruano",
-            "edad": "28",
-            "altura": "1.88 m",
-            "peso": "95 kg",
-            "sexo": "masculino",
-            "talla": "XXL"
-        },
-        {
-            "nombre_atleta": "Carlos Martínez Rojas",
-            "identificacion": "1023456789",
-            "nacionalidad": "Colombiano",
-            "edad": "23",
-            "altura": "1.75 m",
-            "peso": "70 kg",
-            "sexo": "masculino",
-            "talla": "L"
-        },
-        {
-            "nombre_atleta": "Ana Lucía Pérez",
-            "identificacion": "987654321",
-            "nacionalidad": "Ecuatoriana",
-            "edad": "26",
-            "altura": "1.65 m",
-            "peso": "58 kg",
-            "sexo": "femenino",
-            "talla": "M"
-        },
-        {
-            "nombre_atleta": "Diego Armando Sánchez",
-            "identificacion": "456789123",
-            "nacionalidad": "Argentino",
-            "edad": "30",
-            "altura": "1.82 m",
-            "peso": "85 kg",
-            "sexo": "masculino",
-            "talla": "XL"
-        },
-        {
-            "nombre_atleta": "María Fernanda Gómez",
-            "identificacion": "789123456",
-            "nacionalidad": "Chilena",
-            "edad": "22",
-            "altura": "1.70 m",
-            "peso": "62 kg",
-            "sexo": "femenino",
-            "talla": "S"
-        },
-        {
-            "nombre_atleta": "Jorge Luis Ramírez",
-            "identificacion": "321654987",
-            "nacionalidad": "Mexicano",
-            "edad": "27",
-            "altura": "1.78 m",
-            "peso": "75 kg",
-            "sexo": "masculino",
-            "talla": "L"
-        },
-        {
-            "nombre_atleta": "Sofía Alejandra Torres",
-            "identificacion": "654987321",
-            "nacionalidad": "Venezolana",
-            "edad": "24",
-            "altura": "1.68 m",
-            "peso": "60 kg",
-            "sexo": "femenino",
-            "talla": "M"
-        },
-        {
-            "nombre_atleta": "Andrés Felipe González",
-            "identificacion": "147258369",
-            "nacionalidad": "Colombiano",
-            "edad": "29",
-            "altura": "1.80 m",
-            "peso": "78 kg",
-            "sexo": "masculino",
-            "talla": "XL"
-        },
-        {
-            "nombre_atleta": "Laura Patricia Díaz",
-            "identificacion": "258369147",
-            "nacionalidad": "Peruana",
-            "edad": "25",
-            "altura": "1.63 m",
-            "peso": "55 kg",
-            "sexo": "femenino",
-            "talla": "S"
-        },
-        {
-            "nombre_atleta": "Ricardo Alfonso Castro",
-            "identificacion": "369147258",
-            "nacionalidad": "Boliviano",
-            "edad": "31",
-            "altura": "1.85 m",
-            "peso": "90 kg",
-            "sexo": "masculino",
-            "talla": "XXL"
-        },
-        {
-            "nombre_atleta": "Daniela Estefanía Ruiz",
-            "identificacion": "159357486",
-            "nacionalidad": "Paraguaya",
-            "edad": "20",
-            "altura": "1.72 m",
-            "peso": "65 kg",
-            "sexo": "femenino",
-            "talla": "M"
-        },
-        {
-            "nombre_atleta": "Oscar Javier Mendoza",
-            "identificacion": "357486159",
-            "nacionalidad": "Uruguayo",
-            "edad": "28",
-            "altura": "1.77 m",
-            "peso": "80 kg",
-            "sexo": "masculino",
-            "talla": "L"
-        },
-        {
-            "nombre_atleta": "Valentina Andrea Silva",
-            "identificacion": "486159357",
-            "nacionalidad": "Colombiana",
-            "edad": "23",
-            "altura": "1.69 m",
-            "peso": "59 kg",
-            "sexo": "femenino",
-            "talla": "S"
-        },
-        {
-            "nombre_atleta": "Hernán Darío López",
-            "identificacion": "753951846",
-            "nacionalidad": "Argentino",
-            "edad": "32",
-            "altura": "1.83 m",
-            "peso": "88 kg",
-            "sexo": "masculino",
-            "talla": "XL"
-        },
-        {
-            "nombre_atleta": "Camila Alejandra Ríos",
-            "identificacion": "951846753",
-            "nacionalidad": "Chilena",
-            "edad": "21",
-            "altura": "1.66 m",
-            "peso": "57 kg",
-            "sexo": "femenino",
-            "talla": "M"
-        },
-        {
-            "nombre_atleta": "Luis Fernando Herrera",
-            "identificacion": "846753951",
-            "nacionalidad": "Ecuatoriano",
-            "edad": "26",
-            "altura": "1.79 m",
-            "peso": "82 kg",
-            "sexo": "masculino",
-            "talla": "XL"
-        },
-        {
-            "nombre_atleta": "Isabel Cristina Vargas",
-            "identificacion": "624837915",
-            "nacionalidad": "Mexicana",
-            "edad": "27",
-            "altura": "1.64 m",
-            "peso": "56 kg",
-            "sexo": "femenino",
-            "talla": "S"
-        },
-        {
-            "nombre_atleta": "Gustavo Adolfo Peña",
-            "identificacion": "837915624",
-            "nacionalidad": "Venezolano",
-            "edad": "29",
-            "altura": "1.84 m",
-            "peso": "86 kg",
-            "sexo": "masculino",
-            "talla": "XXL"
-        },
-        {
-            "nombre_atleta": "Natalia Andrea Jiménez",
-            "identificacion": "915624837",
-            "nacionalidad": "Peruana",
-            "edad": "24",
-            "altura": "1.71 m",
-            "peso": "63 kg",
-            "sexo": "femenino",
-            "talla": "M"
-        },
-        {
-            "nombre_atleta": "Javier Antonio Rojas",
-            "identificacion": "284619735",
-            "nacionalidad": "Colombiano",
-            "edad": "30",
-            "altura": "1.81 m",
-            "peso": "84 kg",
-            "sexo": "masculino",
-            "talla": "XL"
-        },
-        {
-            "nombre_atleta": "María José Castro",
-            "identificacion": "619735284",
-            "nacionalidad": "Boliviana",
-            "edad": "22",
-            "altura": "1.67 m",
-            "peso": "58 kg",
-            "sexo": "femenino",
-            "talla": "S"
-        },
-        {
-            "nombre_atleta": "Roberto Carlos Fernández",
-            "identificacion": "735284619",
-            "nacionalidad": "Paraguayo",
-            "edad": "33",
-            "altura": "1.86 m",
-            "peso": "92 kg",
-            "sexo": "masculino",
-            "talla": "XXL"
-        },
-        {
-            "nombre_atleta": "Patricia Elizabeth Mora",
-            "identificacion": "492681573",
-            "nacionalidad": "Uruguaya",
-            "edad": "25",
-            "altura": "1.73 m",
-            "peso": "64 kg",
-            "sexo": "femenino",
-            "talla": "M"
-        },
-        {
-            "nombre_atleta": "Alberto José Rodríguez",
-            "identificacion": "681573492",
-            "nacionalidad": "Argentino",
-            "edad": "28",
-            "altura": "1.80 m",
-            "peso": "83 kg",
-            "sexo": "masculino",
-            "talla": "XL"
-        },
-        {
-            "nombre_atleta": "Diana Carolina Soto",
-            "identificacion": "573492681",
-            "nacionalidad": "Chilena",
-            "edad": "23",
-            "altura": "1.69 m",
-            "peso": "61 kg",
-            "sexo": "femenino",
-            "talla": "M"
-        },
-        {
-            "nombre_atleta": "Mauricio Alejandro Vargas",
-            "identificacion": "362514897",
-            "nacionalidad": "Ecuatoriano",
-            "edad": "31",
-            "altura": "1.82 m",
-            "peso": "87 kg",
-            "sexo": "masculino",
-            "talla": "XL"
-        },
-        {
-            "nombre_atleta": "Gabriela Fernanda Méndez",
-            "identificacion": "514897362",
-            "nacionalidad": "Mexicana",
-            "edad": "26",
-            "altura": "1.65 m",
-            "peso": "59 kg",
-            "sexo": "femenino",
-            "talla": "S"
-        },
-        {
-            "nombre_atleta": "José Manuel Guzmán",
-            "identificacion": "897362514",
-            "nacionalidad": "Venezolano",
-            "edad": "27",
-            "altura": "1.78 m",
-            "peso": "79 kg",
-            "sexo": "masculino",
-            "talla": "L"
-        },
-        {
-            "nombre_atleta": "Sandra Milena Restrepo",
-            "identificacion": "135792468",
-            "nacionalidad": "Colombiana",
-            "edad": "24",
-            "altura": "1.70 m",
-            "peso": "62 kg",
-            "sexo": "femenino",
-            "talla": "M"
-        }
-    
+    {
+        "nombre": "Juan Mariño Montoya",
+        "identificacion": "1096067849",
+        "nacionalidad": "Colombia",
+        "edad": 25,
+        "altura": 1.78,
+        "peso": 81,
+        "sexo": "masculino",
+        "disciplinas": [
+            "Atletismo - 100m planos",
+            "Salto largo"
+        ],
+        "delegacion": "Colombia",
+        "medallas": [
+            "Oro en Atletismo - 100m planos (2024)"
+        ]
+    },
+    {
+        "nombre": "Ana Lucía Pérez",
+        "identificacion": "EC987654",
+        "nacionalidad": "Ecuador",
+        "edad": 26,
+        "altura": 1.65,
+        "peso": 58,
+        "sexo": "femenino",
+        "disciplinas": [
+            "Natación - 200m libre"
+        ],
+        "delegacion": "Ecuador",
+        "medallas": [
+            "Plata en Natación - 200m libre (2024)"
+        ]
+    },
+    {
+        "nombre": "Carlos Martínez Rojas",
+        "identificacion": "1023456789",
+        "nacionalidad": "Colombia",
+        "edad": 23,
+        "altura": 1.75,
+        "peso": 70,
+        "sexo": "masculino",
+        "disciplinas": [
+            "Fútbol"
+        ],
+        "delegacion": "Colombia",
+        "medallas": []
+    },
+    {
+        "nombre": "Katie Ledecky",
+        "identificacion": "USA123456",
+        "nacionalidad": "Estados Unidos",
+        "edad": 27,
+        "altura": 1.83,
+        "peso": 68,
+        "sexo": "femenino",
+        "disciplinas": [
+            "Natación - 200m libre",
+            "Natación - 400m libre"
+        ],
+        "delegacion": "Estados Unidos",
+        "medallas": [
+            "Oro en Natación - 200m libre (2024)",
+            "Oro en Natación - 400m libre (2024)"
+        ]
+    },
+    {
+        "nombre": "Usain Bolt",
+        "identificacion": "JAM789012",
+        "nacionalidad": "Jamaica",
+        "edad": 37,
+        "altura": 1.95,
+        "peso": 94,
+        "sexo": "masculino",
+        "disciplinas": [
+            "Atletismo - 100m planos"
+        ],
+        "delegacion": "Jamaica",
+        "medallas": [
+            "Plata en Atletismo - 100m planos (2024)"
+        ]
+    },
+    {
+        "nombre": "Ariarne Titmus",
+        "identificacion": "AUS456789",
+        "nacionalidad": "Australia",
+        "edad": 23,
+        "altura": 1.78,
+        "peso": 63,
+        "sexo": "femenino",
+        "disciplinas": [
+            "Natación - 200m libre"
+        ],
+        "delegacion": "Australia",
+        "medallas": [
+            "Bronce en Natación - 200m libre (2024)"
+        ]
+    },
+    {
+        "nombre": "James Rodríguez",
+        "identificacion": "COL789012",
+        "nacionalidad": "Colombia",
+        "edad": 32,
+        "altura": 1.8,
+        "peso": 75,
+        "sexo": "masculino",
+        "disciplinas": [
+            "Fútbol"
+        ],
+        "delegacion": "Colombia",
+        "medallas": []
+    },
+    {
+        "nombre": "Yulimar Rojas",
+        "identificacion": "VEN123456",
+        "nacionalidad": "Venezuela",
+        "edad": 28,
+        "altura": 1.92,
+        "peso": 71,
+        "sexo": "femenino",
+        "disciplinas": [
+            "Salto triple"
+        ],
+        "delegacion": "Venezuela",
+        "medallas": [
+            "Oro en Salto triple (2024)"
+        ]
+    },
+    {
+        "nombre": "Elaine Thompson-Herah",
+        "identificacion": "JAM345678",
+        "nacionalidad": "Jamaica",
+        "edad": 31,
+        "altura": 1.67,
+        "peso": 57,
+        "sexo": "femenino",
+        "disciplinas": [
+            "Atletismo - 100m planos"
+        ],
+        "delegacion": "Jamaica",
+        "medallas": []
+    },
+    {
+        "nombre": "Caeleb Dressel",
+        "identificacion": "USA789012",
+        "nacionalidad": "Estados Unidos",
+        "edad": 27,
+        "altura": 1.91,
+        "peso": 86,
+        "sexo": "masculino",
+        "disciplinas": [
+            "Natación - 100m mariposa"
+        ],
+        "delegacion": "Estados Unidos",
+        "medallas": [
+            "Oro en Natación - 100m mariposa (2024)"
+        ]
+    },
+    {
+        "nombre": "Mariana Pajón",
+        "identificacion": "COL345678",
+        "nacionalidad": "Colombia",
+        "edad": 32,
+        "altura": 1.58,
+        "peso": 52,
+        "sexo": "femenino",
+        "disciplinas": [
+            "Ciclismo BMX"
+        ],
+        "delegacion": "Colombia",
+        "medallas": [
+            "Oro en Ciclismo BMX (2024)"
+        ]
+    },
+    {
+        "nombre": "Neymar Jr",
+        "identificacion": "BRA123456",
+        "nacionalidad": "Brasil",
+        "edad": 32,
+        "altura": 1.75,
+        "peso": 68,
+        "sexo": "masculino",
+        "disciplinas": [
+            "Fútbol"
+        ],
+        "delegacion": "Brasil",
+        "medallas": []
+    },
+    {
+        "nombre": "Simone Biles",
+        "identificacion": "USA456789",
+        "nacionalidad": "Estados Unidos",
+        "edad": 27,
+        "altura": 1.45,
+        "peso": 47,
+        "sexo": "femenino",
+        "disciplinas": [
+            "Gimnasia artística"
+        ],
+        "delegacion": "Estados Unidos",
+        "medallas": [
+            "Oro en Gimnasia artística - Salto (2024)"
+        ]
+    },
+    {
+        "nombre": "Alisson Becker",
+        "identificacion": "BRA789012",
+        "nacionalidad": "Brasil",
+        "edad": 31,
+        "altura": 1.93,
+        "peso": 91,
+        "sexo": "masculino",
+        "disciplinas": [
+            "Fútbol"
+        ],
+        "delegacion": "Brasil",
+        "medallas": []
+    },
+    {
+        "nombre": "Shelly-Ann Fraser-Pryce",
+        "identificacion": "JAM567890",
+        "nacionalidad": "Jamaica",
+        "edad": 37,
+        "altura": 1.52,
+        "peso": 52,
+        "sexo": "femenino",
+        "disciplinas": [
+            "Atletismo - 100m planos"
+        ],
+        "delegacion": "Jamaica",
+        "medallas": [
+            "Bronce en Atletismo - 100m planos (2024)"
+        ]
+    },
+    {
+        "nombre": "Lionel Messi",
+        "identificacion": "ARG123456",
+        "nacionalidad": "Argentina",
+        "edad": 36,
+        "altura": 1.7,
+        "peso": 72,
+        "sexo": "masculino",
+        "disciplinas": [
+            "Fútbol"
+        ],
+        "delegacion": "Argentina",
+        "medallas": []
+    },
+    {
+        "nombre": "Dina Asher-Smith",
+        "identificacion": "GBR789012",
+        "nacionalidad": "Reino Unido",
+        "edad": 28,
+        "altura": 1.65,
+        "peso": 55,
+        "sexo": "femenino",
+        "disciplinas": [
+            "Atletismo - 200m planos"
+        ],
+        "delegacion": "Reino Unido",
+        "medallas": [
+            "Plata en Atletismo - 200m planos (2024)"
+        ]
+    },
+    {
+        "nombre": "Rafael Nadal",
+        "identificacion": "ESP345678",
+        "nacionalidad": "España",
+        "edad": 38,
+        "altura": 1.85,
+        "peso": 85,
+        "sexo": "masculino",
+        "disciplinas": [
+            "Tenis"
+        ],
+        "delegacion": "España",
+        "medallas": [
+            "Oro en Tenis individual (2024)"
+        ]
+    },
+    {
+        "nombre": "Naomi Osaka",
+        "identificacion": "JPN123456",
+        "nacionalidad": "Japón",
+        "edad": 26,
+        "altura": 1.8,
+        "peso": 69,
+        "sexo": "femenino",
+        "disciplinas": [
+            "Tenis"
+        ],
+        "delegacion": "Japón",
+        "medallas": []
+    },
+    {
+        "nombre": "Wayde van Niekerk",
+        "identificacion": "RSA789012",
+        "nacionalidad": "Sudáfrica",
+        "edad": 31,
+        "altura": 1.83,
+        "peso": 74,
+        "sexo": "masculino",
+        "disciplinas": [
+            "Atletismo - 400m planos"
+        ],
+        "delegacion": "Sudáfrica",
+        "medallas": [
+            "Oro en Atletismo - 400m planos (2024)"
+        ]
+    }
 ]

@@ -1,0 +1,142 @@
+[
+    {
+        "atleta": "Usain Bolt",
+        "pais": "Jamaica",
+        "logro": "Plusmarquista mundial en 100m (9.58 segundos)",
+        "ano": 2009,
+        "disciplina": "Atletismo - 100m planos"
+    },
+    {
+        "atleta": "Michael Phelps",
+        "pais": "Estados Unidos",
+        "logro": "Más medallas olímpicas (28)",
+        "ano": 2016,
+        "disciplina": "Natación"
+    },
+    {
+        "atleta": "Simone Biles",
+        "pais": "Estados Unidos",
+        "logro": "Gimnasta con más mundiales (25 medallas)",
+        "ano": 2019,
+        "disciplina": "Gimnasia artística"
+    },
+    {
+        "atleta": "Pelé",
+        "pais": "Brasil",
+        "logro": "Único tricampeón mundial de fútbol",
+        "ano": 1970,
+        "disciplina": "Fútbol"
+    },
+    {
+        "atleta": "Serena Williams",
+        "pais": "Estados Unidos",
+        "logro": "Más Grand Slams en Era Abierta (23)",
+        "ano": 2017,
+        "disciplina": "Tenis"
+    },
+    {
+        "atleta": "Yulimar Rojas",
+        "pais": "Venezuela",
+        "logro": "Récord mundial en salto triple (15.74m)",
+        "ano": 2022,
+        "disciplina": "Salto triple"
+    },
+    {
+        "atleta": "Eliud Kipchoge",
+        "pais": "Kenya",
+        "logro": "Primer maratonista bajo 2 horas (1:59:40)",
+        "ano": 2019,
+        "disciplina": "Atletismo - Maratón"
+    },
+    {
+        "atleta": "Nadia Comăneci",
+        "pais": "Rumania",
+        "logro": "Primera nota 10 en gimnasia olímpica",
+        "ano": 1976,
+        "disciplina": "Gimnasia artística"
+    },
+    {
+        "atleta": "Lionel Messi",
+        "pais": "Argentina",
+        "logro": "Más Balones de Oro (8)",
+        "ano": 2023,
+        "disciplina": "Fútbol"
+    },
+    {
+        "atleta": "Katie Ledecky",
+        "pais": "Estados Unidos",
+        "logro": "Plusmarquista en 800m libre (8:04.79)",
+        "ano": 2016,
+        "disciplina": "Natación"
+    },
+    {
+        "atleta": "Rafael Nadal",
+        "pais": "España",
+        "logro": "Más títulos en Roland Garros (14)",
+        "ano": 2022,
+        "disciplina": "Tenis"
+    },
+    {
+        "atleta": "Wayde van Niekerk",
+        "pais": "Sudáfrica",
+        "logro": "Récord mundial en 400m (43.03 segundos)",
+        "ano": 2016,
+        "disciplina": "Atletismo - 400m planos"
+    },
+    {
+        "atleta": "Mariana Pajón",
+        "pais": "Colombia",
+        "logro": "Única bicampeona olímpica en BMX",
+        "ano": 2016,
+        "disciplina": "Ciclismo BMX"
+    },
+    {
+        "atleta": "Marta Vieira",
+        "pais": "Brasil",
+        "logro": "Máxima goleadora en Mundiales Femeninos (17)",
+        "ano": 2019,
+        "disciplina": "Fútbol"
+    },
+    {
+        "atleta": "LeBron James",
+        "pais": "Estados Unidos",
+        "logro": "Máximo anotador en la historia de la NBA",
+        "ano": 2023,
+        "disciplina": "Baloncesto"
+    },
+    {
+        "atleta": "Tijana Bošković",
+        "pais": "Serbia",
+        "logro": "MVP del Mundial de Voleibol 2018",
+        "ano": 2018,
+        "disciplina": "Voleibol"
+    },
+    {
+        "atleta": "Anthony Joshua",
+        "pais": "Reino Unido",
+        "logro": "Campeón unificado de peso pesado",
+        "ano": 2019,
+        "disciplina": "Boxeo"
+    },
+    {
+        "atleta": "Shohei Ono",
+        "pais": "Japón",
+        "logro": "Triple campeón mundial de judo",
+        "ano": 2021,
+        "disciplina": "Judo"
+    },
+    {
+        "atleta": "Inna Deriglazova",
+        "pais": "Rusia",
+        "logro": "Campeona olímpica y mundial en florete",
+        "ano": 2016,
+        "disciplina": "Esgrima"
+    },
+    {
+        "atleta": "Lasha Talakhadze",
+        "pais": "Georgia",
+        "logro": "Récord mundial en arranque (225kg)",
+        "ano": 2021,
+        "disciplina": "Halterofilia"
+    }
+]

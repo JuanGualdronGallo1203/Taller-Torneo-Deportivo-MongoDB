@@ -1,0 +1,282 @@
+[
+    {
+        "equipo": "Selección Colombia de Fútbol",
+        "pais": "Colombia",
+        "disciplina": "Fútbol",
+        "jugadores": [
+            "Carlos Martínez Rojas",
+            "James Rodríguez",
+            "Juan Cuadrado"
+        ],
+        "partidos_jugados": 5,
+        "partidos_ganados": 3,
+        "goles_a_favor": 8,
+        "goles_en_contra": 4
+    },
+    {
+        "equipo": "Selección Argentina de Fútbol",
+        "pais": "Argentina",
+        "disciplina": "Fútbol",
+        "jugadores": [
+            "Lionel Messi",
+            "Ángel Di María",
+            "Julián Álvarez"
+        ],
+        "partidos_jugados": 6,
+        "partidos_ganados": 5,
+        "goles_a_favor": 12,
+        "goles_en_contra": 3
+    },
+    {
+        "equipo": "Selección Brasil de Fútbol",
+        "pais": "Brasil",
+        "disciplina": "Fútbol",
+        "jugadores": [
+            "Neymar Jr",
+            "Vinicius Jr",
+            "Alisson Becker"
+        ],
+        "partidos_jugados": 6,
+        "partidos_ganados": 4,
+        "goles_a_favor": 10,
+        "goles_en_contra": 5
+    },
+    {
+        "equipo": "Selección USA de Baloncesto",
+        "pais": "Estados Unidos",
+        "disciplina": "Baloncesto",
+        "jugadores": [
+            "LeBron James",
+            "Stephen Curry",
+            "Kevin Durant"
+        ],
+        "partidos_jugados": 6,
+        "partidos_ganados": 6,
+        "puntos_a_favor": 620,
+        "puntos_en_contra": 480
+    },
+    {
+        "equipo": "Selección España de Baloncesto",
+        "pais": "España",
+        "disciplina": "Baloncesto",
+        "jugadores": [
+            "Ricky Rubio",
+            "Pau Gasol",
+            "Juancho Hernangómez"
+        ],
+        "partidos_jugados": 6,
+        "partidos_ganados": 5,
+        "puntos_a_favor": 580,
+        "puntos_en_contra": 520
+    },
+    {
+        "equipo": "Selección Brasil de Voleibol Femenino",
+        "pais": "Brasil",
+        "disciplina": "Voleibol",
+        "jugadores": [
+            "Gabriela Guimarães",
+            "Tandara Caixeta",
+            "Carol Gattaz"
+        ],
+        "partidos_jugados": 8,
+        "partidos_ganados": 7,
+        "sets_a_favor": 21,
+        "sets_en_contra": 5
+    },
+    {
+        "equipo": "Selección USA de Voleibol Femenino",
+        "pais": "Estados Unidos",
+        "disciplina": "Voleibol",
+        "jugadores": [
+            "Jordan Larson",
+            "Foluke Akinradewo",
+            "Micha Hancock"
+        ],
+        "partidos_jugados": 8,
+        "partidos_ganados": 6,
+        "sets_a_favor": 19,
+        "sets_en_contra": 8
+    },
+    {
+        "equipo": "Selección Serbia de Voleibol Femenino",
+        "pais": "Serbia",
+        "disciplina": "Voleibol",
+        "jugadores": [
+            "Tijana Bošković",
+            "Brankica Mihajlović",
+            "Maja Ognjenović"
+        ],
+        "partidos_jugados": 8,
+        "partidos_ganados": 6,
+        "sets_a_favor": 18,
+        "sets_en_contra": 9
+    },
+    {
+        "equipo": "Selección USA de Fútbol Femenino",
+        "pais": "Estados Unidos",
+        "disciplina": "Fútbol",
+        "jugadores": [
+            "Megan Rapinoe",
+            "Alex Morgan",
+            "Sophia Smith"
+        ],
+        "partidos_jugados": 6,
+        "partidos_ganados": 5,
+        "goles_a_favor": 14,
+        "goles_en_contra": 3
+    },
+    {
+        "equipo": "Selección Suecia de Fútbol Femenino",
+        "pais": "Suecia",
+        "disciplina": "Fútbol",
+        "jugadores": [
+            "Stina Blackstenius",
+            "Fridolina Rolfö",
+            "Kosovare Asllani"
+        ],
+        "partidos_jugados": 6,
+        "partidos_ganados": 4,
+        "goles_a_favor": 9,
+        "goles_en_contra": 5
+    },
+    {
+        "equipo": "Selección Canadá de Fútbol Femenino",
+        "pais": "Canadá",
+        "disciplina": "Fútbol",
+        "jugadores": [
+            "Christine Sinclair",
+            "Jessie Fleming",
+            "Ashley Lawrence"
+        ],
+        "partidos_jugados": 6,
+        "partidos_ganados": 4,
+        "goles_a_favor": 8,
+        "goles_en_contra": 6
+    },
+    {
+        "equipo": "Selección Australia de Baloncesto",
+        "pais": "Australia",
+        "disciplina": "Baloncesto",
+        "jugadores": [
+            "Patty Mills",
+            "Joe Ingles",
+            "Matthew Dellavedova"
+        ],
+        "partidos_jugados": 6,
+        "partidos_ganados": 4,
+        "puntos_a_favor": 550,
+        "puntos_en_contra": 530
+    },
+    {
+        "equipo": "Selección Francia de Baloncesto",
+        "pais": "Francia",
+        "disciplina": "Baloncesto",
+        "jugadores": [
+            "Rudy Gobert",
+            "Evan Fournier",
+            "Nicolas Batum"
+        ],
+        "partidos_jugados": 6,
+        "partidos_ganados": 3,
+        "puntos_a_favor": 520,
+        "puntos_en_contra": 540
+    },
+    {
+        "equipo": "Selección Italia de Voleibol Masculino",
+        "pais": "Italia",
+        "disciplina": "Voleibol",
+        "jugadores": [
+            "Ivan Zaytsev",
+            "Osmany Juantorena",
+            "Gianluca Galassi"
+        ],
+        "partidos_jugados": 8,
+        "partidos_ganados": 6,
+        "sets_a_favor": 20,
+        "sets_en_contra": 7
+    },
+    {
+        "equipo": "Selección Polonia de Voleibol Masculino",
+        "pais": "Polonia",
+        "disciplina": "Voleibol",
+        "jugadores": [
+            "Wilfredo León",
+            "Bartosz Kurek",
+            "Mateusz Bieniek"
+        ],
+        "partidos_jugados": 8,
+        "partidos_ganados": 7,
+        "sets_a_favor": 22,
+        "sets_en_contra": 6
+    },
+    {
+        "equipo": "Selección USA de Voleibol Masculino",
+        "pais": "Estados Unidos",
+        "disciplina": "Voleibol",
+        "jugadores": [
+            "Matt Anderson",
+            "Micah Christenson",
+            "Taylor Sander"
+        ],
+        "partidos_jugados": 8,
+        "partidos_ganados": 5,
+        "sets_a_favor": 18,
+        "sets_en_contra": 10
+    },
+    {
+        "equipo": "Selección Alemania de Fútbol",
+        "pais": "Alemania",
+        "disciplina": "Fútbol",
+        "jugadores": [
+            "Timo Werner",
+            "Joshua Kimmich",
+            "Manuel Neuer"
+        ],
+        "partidos_jugados": 5,
+        "partidos_ganados": 3,
+        "goles_a_favor": 7,
+        "goles_en_contra": 4
+    },
+    {
+        "equipo": "Selección Francia de Fútbol",
+        "pais": "Francia",
+        "disciplina": "Fútbol",
+        "jugadores": [
+            "Kylian Mbappé",
+            "Antoine Griezmann",
+            "Hugo Lloris"
+        ],
+        "partidos_jugados": 5,
+        "partidos_ganados": 4,
+        "goles_a_favor": 9,
+        "goles_en_contra": 3
+    },
+    {
+        "equipo": "Selección Japón de Fútbol",
+        "pais": "Japón",
+        "disciplina": "Fútbol",
+        "jugadores": [
+            "Takefusa Kubo",
+            "Daichi Kamada",
+            "Shuichi Gonda"
+        ],
+        "partidos_jugados": 5,
+        "partidos_ganados": 2,
+        "goles_a_favor": 5,
+        "goles_en_contra": 6
+    },
+    {
+        "equipo": "Selección Nigeria de Fútbol",
+        "pais": "Nigeria",
+        "disciplina": "Fútbol",
+        "jugadores": [
+            "Victor Osimhen",
+            "Kelechi Iheanacho",
+            "Wilfred Ndidi"
+        ],
+        "partidos_jugados": 5,
+        "partidos_ganados": 3,
+        "goles_a_favor": 7,
+        "goles_en_contra": 5
+    }
+]
